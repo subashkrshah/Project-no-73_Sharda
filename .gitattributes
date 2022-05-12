@@ -3,3 +3,4 @@ weights filter=lfs diff=lfs merge=lfs -text
 .weights filter=lfs diff=lfs merge=lfs -text
 model.h5 filter=lfs diff=lfs merge=lfs -text
 yolov3.weights filter=lfs diff=lfs merge=lfs -text
+results/ filter=lfs diff=lfs merge=lfs -text
